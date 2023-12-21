@@ -1,28 +1,6 @@
-/*
-  Theme Name: Reveal
-  Theme URL: https://bootstrapmade.com/reveal-bootstrap-corporate-template/
-  Author: BootstrapMade.com
-  License: https://bootstrapmade.com/license/
-*/
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
-/* html {
-  filter: invert(100%) hue-rotate(180deg);
-} */
-
-/* @media (prefers-color-scheme: dark) {
-  :root {
-      --body-bg: #000000;
-      --body-color: #FFFFFF;
-  }
-} */
-
-/* body {
-  background:  black; 
-  color:  white;
-  font-family: "Open Sans", sans-serif;
-} */
 
 body {
   background: #fff;
