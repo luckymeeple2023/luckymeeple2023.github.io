@@ -922,7 +922,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   background: #50d8af;
   color: #fff;
   padding: 15px;
-  border-radius: 0 0 3px 3px;
+  /* border-radius: 0 0 3px 3px; */
   text-align: center;
 }
 
