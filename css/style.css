@@ -1100,3 +1100,8 @@ h4 {
 #footer .credits a {
   color: #0c2e8a;
 }
+
+.row {
+  display: flex;
+  justify-content: space-around;
+}
