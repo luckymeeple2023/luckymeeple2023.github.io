@@ -944,6 +944,14 @@ body.mobile-nav-active #mobile-nav-toggle {
   text-align: center;
 }
 
+#team .member .poker-month {
+  background: #c33b3b;
+  color: #fff;
+  padding: 15px;
+  /* border-radius: 0 0 3px 3px; */
+  text-align: center;
+}
+
 .poker-month {
   background: #c33b3b;
   color: #fff;
